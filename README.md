@@ -19,6 +19,10 @@ This repo contains the tex files and pdf files of slides for VE401 SP21 recitati
 ### RC Slides
 
 - Week 2: [Slide](./week-2/VE401_RC_week2_with_sol.pdf)
+- Week 3: [Slide](./week-3/VE401_RC_week3_with_sol.pdf)
+- Week 4: [Slide](./week-4/VE401_RC_week4_with_sol.pdf)
+- Week 5: [Slide](./week-5/VE401_RC_week5_with_sol.pdf)
+- Midterm: [Slide](./midterm/VE401_mid_review_part_2_with_sol.pdf)
 
 <hr>
 <center>
