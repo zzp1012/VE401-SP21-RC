@@ -14,7 +14,7 @@
 
 ### Abstract
 
-This repo contains the tex files and pdf files of slides for VE401 SP21 recitation classes.
+This repo contains slides for VE401 SP21 recitation classes.
 
 ### RC Slides
 
@@ -22,9 +22,13 @@ This repo contains the tex files and pdf files of slides for VE401 SP21 recitati
 - Week 3: [Slide](./week-3/VE401_RC_week3_with_sol.pdf)
 - Week 4: [Slide](./week-4/VE401_RC_week4_with_sol.pdf)
 - Week 5: [Slide](./week-5/VE401_RC_week5_with_sol.pdf)
+- Week 7: [Slide](./week-7/VE401_RC_week7.pdf)
+- Week 8: [Slide](./week-8/VE401_RC_week8_with_sol.pdf)
+- Week 9: [Slide](./week-9/VE401_RC_week9.pdf)
 - Midterm: [Slide](./midterm/VE401_mid_review_part_2_with_sol.pdf)
 
 <hr>
 <center>
     UM-SJTU Joint Institute 交大密西根学院
 </center>
+
