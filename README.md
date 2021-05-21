@@ -26,6 +26,7 @@ This repo contains slides for VE401 SP21 recitation classes.
 - Week 8: [Slide](./week-8/VE401_RC_week8_with_sol.pdf)
 - Week 9: [Slide](./week-9/VE401_RC_week9.pdf)
 - Midterm: [Slide](./midterm/VE401_mid_review_part_2_with_sol.pdf)
+- Final: [Notebook](./final/VE401_final_review_part_4.nb)
 
 <hr>
 <center>
